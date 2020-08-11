@@ -6,7 +6,7 @@ import java.rmi.registry.Registry;
 import Remote.DatabaseInterface;
 
 public class DatabaseManager {
-    public static String ip = "127.0.0.1";;
+    public static String ip = "";
     public static DatabaseInterface db;
 
 
